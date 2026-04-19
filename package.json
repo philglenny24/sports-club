@@ -1,0 +1,12 @@
+{
+  "name": "naomi-website",
+  "version": "1.0.0",
+  "description": "Naomi website project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
